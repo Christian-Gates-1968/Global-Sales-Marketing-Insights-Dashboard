@@ -1,68 +1,73 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Power BI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualization.
-# 📊 Sales & Marketing Dataset for Power BI Dashboards
+# 📊 Global Sales, Revenue and Performance Dashboard
 
-This repository contains a rich, synthetic dataset designed for data visualization and dashboarding using tools like **Power BI**, **Tableau**, or **Excel**. The file `sales_marketing_data.csv` simulates real-world sales and marketing data across various regions, product categories, and customer segments.
+This repository showcases a visually rich Power BI dashboard built using the `sales_marketing_data.csv` file. It provides a comprehensive overview of sales performance, product revenue, regional contributions, and individual sales rep effectiveness.
 
 ---
 
-## 📁 File Contents
+## 🖥️ Dashboard Overview
 
-### `sales_marketing_data.csv`
+The dashboard titled **"Global Sales, Revenue and Performance Dashboard"** includes:
 
-A CSV file with 500 records and the following columns:
+- **Total Revenue**: $14M  
+- **Total Units Sold**: 53K  
+- **Top Products by Revenue**: Bar chart visualization  
+- **Sales Distribution by Sales Rep**: Pie chart  
+- **Regional Performance**: Interactive world map highlighting revenue by region  
+- **Top Performing Region**: Asia  
 
-| Column Name         | Description                                                                 |
-|---------------------|-----------------------------------------------------------------------------|
-| Date                | Transaction date                                                            |
-| Region              | Global region where the sale occurred (e.g., North America, Asia)          |
-| Country             | Country of transaction                                                      |
-| Product Category    | Category of the product sold (e.g., Electronics, Clothing)                  |
-| Product Name        | Specific product name                                                       |
-| Sales Rep           | Name of the salesperson responsible for the sale                           |
-| Units Sold          | Number of units sold                                                        |
-| Revenue             | Total revenue generated from the sale                                       |
-| Cost                | Total cost incurred for the sold items                                      |
-| Profit              | Revenue minus cost                                                          |
-| Customer Segment    | Type of customer (Retail, Enterprise, or Wholesale)                         |
-| Campaign            | Marketing campaign associated with the sale                                 |
-| Leads               | Number of leads generated                                                   |
-| Conversions         | Number of successful conversions                                            |
-| Ad Spend            | Amount spent on advertising for that campaign                              |
+---
+
+## 📁 Dataset: `sales_marketing_data.csv`
+
+A detailed CSV file containing simulated marketing and sales data. It includes 500+ records with the following fields:
+
+| Column             | Description                                       |
+|--------------------|---------------------------------------------------|
+| Date               | Date of transaction                              |
+| Region             | Region (e.g., Asia, Europe, North America)       |
+| Country            | Country where the sale occurred                  |
+| Product Category   | Product classification (e.g., Electronics)       |
+| Product Name       | Specific product sold                            |
+| Sales Rep          | Salesperson handling the transaction             |
+| Units Sold         | Quantity of products sold                        |
+| Revenue            | Total revenue generated                          |
+| Cost               | Cost incurred                                    |
+| Profit             | Revenue - Cost                                   |
+| Customer Segment   | Retail, Enterprise, or Wholesale                 |
+| Campaign           | Marketing campaign involved                      |
+| Leads              | Leads generated                                  |
+| Conversions        | Successful conversions                           |
+| Ad Spend           | Marketing spend for the campaign                 |
+
+---
+
+## 📊 Key Visuals
+
+- 📌 **Bar Chart**: Revenue by Product Name  
+- 📌 **Pie Chart**: Units Sold by Sales Representative  
+- 📌 **Map**: Global Region-Based Revenue Heatmap  
+- 📌 **KPI Cards**: Revenue ($14M) and Units Sold (53K)  
+- 📌 **Region Highlight**: Asia marked as top performer
 
 ---
 
 ## 🧠 Use Cases
 
-This dataset is ideal for:
+This dataset and dashboard are ideal for:
 
-- Building Power BI dashboards
-- Practicing data cleaning and transformation
-- Creating visualizations like:
-  - Revenue by Region (Map)
-  - Profit by Product Category (Bar Chart)
-  - Conversions by Campaign (Pie Chart)
-  - Sales Trends Over Time (Line Chart)
-  - Funnel: Leads → Conversions
+- Practicing business intelligence visualization
+- Building executive-level summary dashboards
+- Demonstrating data storytelling with regional and sales-based insights
+- Teaching KPIs and performance metrics in a corporate setting
 
 ---
 
-## 📌 Sample Visual Ideas
+## 🚨 Disclaimer
 
-- 📍 **Map**: Revenue by Country  
-- 📈 **Line Chart**: Revenue Over Time  
-- 📊 **Bar Chart**: Profit by Sales Rep  
-- 🎯 **Pie Chart**: Sales by Product Category  
-- 🔽 **Funnel Chart**: Marketing Conversion Funnel
+This is a **fictional/synthetic dataset** generated for educational and demonstrative purposes. No real customer or proprietary data is included.
 
 ---
 
-## ⚠️ Disclaimer
+## 📃 License
 
-This is a **synthetic dataset** generated for demonstration, educational, and development purposes. It does not contain real customer or company data.
-
----
-
-## ✅ License
-
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](LICENSE).
