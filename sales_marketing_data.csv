@@ -1,0 +1,501 @@
+Date,Region,Country,Product Category,Product Name,Sales Rep,Units Sold,Revenue,Cost,Profit,Customer Segment,Campaign,Leads,Conversions,Ad Spend
+2024-04-11,Asia,China,Books,Novel Alpha,Carlos Vega,41,20459,15716.0,4743.0,Enterprise,Holiday Promo,28,8,3372
+2024-02-28,Asia,China,Electronics,Smartphone Z,John Doe,165,34320,29158.16,5161.84,Retail,Holiday Promo,288,41,1444
+2024-03-25,South America,Brazil,Clothing,Jacket Winter,Alice Wong,79,20224,15643.83,4580.17,Retail,None,111,32,0
+2024-01-20,North America,Mexico,Clothing,T-shirt Classic,Carlos Vega,42,12012,7319.08,4692.92,Enterprise,Q1 Social Boost,67,22,4150
+2024-01-09,North America,Mexico,Home Appliances,Washing Machine W,John Doe,140,10080,6995.38,3084.62,Wholesale,None,106,62,0
+2024-03-16,Europe,UK,Clothing,T-shirt Classic,John Doe,148,7992,4985.66,3006.34,Wholesale,Spring Email Blast,38,11,3499
+2024-02-18,North America,Mexico,Clothing,T-shirt Classic,John Doe,51,24582,14816.91,9765.09,Retail,None,154,68,0
+2024-04-25,Asia,Japan,Electronics,Laptop Pro,Carlos Vega,65,18720,15962.14,2757.86,Enterprise,Q1 Social Boost,41,12,3478
+2024-02-02,Asia,China,Home Appliances,Air Conditioner A1,Carlos Vega,163,10432,8339.65,2092.35,Enterprise,Q1 Social Boost,205,28,2847
+2024-01-01,Asia,Japan,Home Appliances,Air Conditioner A1,Carlos Vega,25,10750,8426.18,2323.82,Wholesale,None,155,17,0
+2024-04-15,North America,USA,Clothing,Jeans Slim Fit,Carlos Vega,125,42125,37270.56,4854.44,Wholesale,None,186,63,0
+2024-03-25,Europe,UK,Electronics,Laptop Pro,Carlos Vega,57,20862,14513.4,6348.6,Enterprise,Holiday Promo,142,14,2944
+2024-01-11,Asia,India,Books,History Chronicle,Alice Wong,69,9591,7995.41,1595.59,Retail,Q1 Social Boost,45,13,4383
+2024-01-11,Asia,Japan,Electronics,Laptop Pro,Alice Wong,24,2640,2104.54,535.46,Enterprise,Q1 Social Boost,86,18,4700
+2024-02-14,South America,Argentina,Clothing,T-shirt Classic,Alice Wong,103,43672,33095.44,10576.56,Retail,Holiday Promo,294,80,3578
+2024-02-13,Asia,India,Books,Novel Alpha,Carlos Vega,158,79000,56774.33,22225.67,Retail,Holiday Promo,155,74,3845
+2024-04-06,Asia,China,Home Appliances,Air Conditioner A1,Carlos Vega,169,50362,44776.67,5585.33,Enterprise,Spring Email Blast,55,30,637
+2024-03-11,Asia,India,Books,History Chronicle,Carlos Vega,33,13200,11741.04,1458.96,Enterprise,Holiday Promo,134,34,4989
+2024-03-19,Asia,India,Electronics,Laptop Pro,John Doe,176,25168,18515.36,6652.64,Wholesale,Spring Email Blast,92,24,621
+2024-01-04,Europe,France,Clothing,Jacket Winter,Alice Wong,70,29400,22958.68,6441.32,Retail,None,206,62,0
+2024-03-23,North America,USA,Electronics,Smartwatch X,Carlos Vega,156,49608,38031.02,11576.98,Enterprise,Holiday Promo,31,5,4164
+2024-03-24,South America,Argentina,Books,Science Textbook,Jane Smith,76,37164,25693.16,11470.84,Wholesale,Spring Email Blast,157,72,2901
+2024-02-13,North America,Mexico,Electronics,Smartphone Z,John Doe,119,51527,35691.07,15835.93,Retail,Spring Email Blast,154,21,4298
+2024-04-11,South America,Chile,Home Appliances,Washing Machine W,Jane Smith,12,4008,3015.33,992.67,Wholesale,Spring Email Blast,249,68,1185
+2024-03-20,South America,Brazil,Electronics,Smartphone Z,Carlos Vega,79,38473,32138.11,6334.89,Retail,Q1 Social Boost,194,89,1796
+2024-03-22,North America,Canada,Electronics,Smartphone Z,Jane Smith,73,30222,20548.21,9673.79,Retail,Holiday Promo,230,87,3548
+2024-01-11,Asia,Japan,Home Appliances,Air Conditioner A1,John Doe,86,23736,16792.75,6943.25,Retail,Holiday Promo,222,111,1939
+2024-03-15,South America,Chile,Home Appliances,Washing Machine W,Jane Smith,120,8640,5631.89,3008.11,Retail,None,106,44,0
+2024-03-06,South America,Argentina,Home Appliances,Blender Max,John Doe,160,64000,51248.28,12751.72,Wholesale,Holiday Promo,110,36,1877
+2024-03-10,Europe,UK,Clothing,T-shirt Classic,Jane Smith,22,6710,4991.21,1718.79,Enterprise,Spring Email Blast,264,147,1464
+2024-01-07,Asia,Japan,Clothing,Jeans Slim Fit,John Doe,148,24716,18843.92,5872.08,Enterprise,Q1 Social Boost,250,121,1870
+2024-01-22,North America,Mexico,Home Appliances,Air Conditioner A1,John Doe,125,33750,23218.64,10531.36,Retail,Q1 Social Boost,205,73,1284
+2024-01-09,North America,USA,Clothing,T-shirt Classic,Carlos Vega,173,68335,55156.46,13178.54,Enterprise,Holiday Promo,222,98,1675
+2024-03-09,South America,Argentina,Books,Novel Alpha,John Doe,102,10404,7340.55,3063.45,Retail,None,68,19,0
+2024-02-19,South America,Chile,Home Appliances,Washing Machine W,John Doe,177,39471,32712.58,6758.42,Wholesale,Holiday Promo,212,78,956
+2024-04-09,Europe,Germany,Clothing,Jeans Slim Fit,Carlos Vega,32,12320,10873.05,1446.95,Enterprise,Spring Email Blast,54,25,1845
+2024-03-02,Asia,India,Clothing,Jeans Slim Fit,Alice Wong,178,65682,51663.61,14018.39,Wholesale,None,37,6,0
+2024-04-01,Europe,UK,Home Appliances,Air Conditioner A1,Jane Smith,157,9106,7185.65,1920.35,Enterprise,Q1 Social Boost,61,32,1486
+2024-04-09,South America,Argentina,Books,Science Textbook,John Doe,164,26076,22126.73,3949.27,Wholesale,Q1 Social Boost,156,64,4068
+2024-02-22,Europe,France,Clothing,Jacket Winter,Alice Wong,171,32490,25081.02,7408.98,Enterprise,None,100,34,0
+2024-02-16,North America,Mexico,Electronics,Laptop Pro,John Doe,24,4200,2819.21,1380.79,Wholesale,Holiday Promo,91,34,2922
+2024-02-20,South America,Argentina,Books,Science Textbook,Alice Wong,20,1680,1360.57,319.43,Retail,Spring Email Blast,224,91,4812
+2024-03-07,Asia,China,Electronics,Laptop Pro,Carlos Vega,112,24192,17906.04,6285.96,Wholesale,Q1 Social Boost,82,26,4831
+2024-04-26,North America,Mexico,Books,History Chronicle,John Doe,42,8106,5191.7,2914.3,Retail,None,37,10,0
+2024-01-12,Europe,UK,Electronics,Smartwatch X,Alice Wong,197,86483,60114.74,26368.26,Enterprise,Holiday Promo,233,27,2347
+2024-04-23,North America,Canada,Clothing,Jeans Slim Fit,John Doe,111,44400,28652.54,15747.46,Wholesale,Spring Email Blast,193,24,731
+2024-03-24,Europe,Germany,Books,History Chronicle,John Doe,122,15738,10519.46,5218.54,Retail,Spring Email Blast,125,42,3133
+2024-01-21,South America,Chile,Home Appliances,Blender Max,Carlos Vega,185,38110,30223.57,7886.43,Enterprise,Spring Email Blast,167,27,4313
+2024-03-05,North America,Canada,Clothing,Jeans Slim Fit,John Doe,160,79040,51808.25,27231.75,Wholesale,Q1 Social Boost,205,61,1699
+2024-04-30,Europe,UK,Home Appliances,Air Conditioner A1,Carlos Vega,64,28864,22109.99,6754.01,Retail,Q1 Social Boost,291,136,3874
+2024-01-12,North America,Mexico,Home Appliances,Blender Max,Jane Smith,142,26696,19929.88,6766.12,Wholesale,Q1 Social Boost,196,66,3745
+2024-03-25,Asia,China,Clothing,Jacket Winter,Alice Wong,25,11450,7035.24,4414.76,Wholesale,Holiday Promo,122,20,3978
+2024-04-01,Europe,Germany,Home Appliances,Washing Machine W,Alice Wong,86,22360,20066.24,2293.76,Wholesale,Holiday Promo,28,10,2537
+2024-04-13,Asia,China,Books,History Chronicle,John Doe,51,17187,14082.77,3104.23,Retail,Q1 Social Boost,189,41,1080
+2024-03-08,Europe,UK,Clothing,Jacket Winter,Carlos Vega,86,25800,20443.46,5356.54,Enterprise,Q1 Social Boost,75,32,665
+2024-02-26,South America,Brazil,Home Appliances,Washing Machine W,John Doe,181,29865,25967.35,3897.65,Retail,Q1 Social Boost,101,25,1485
+2024-01-07,North America,USA,Books,Science Textbook,Alice Wong,182,76622,56314.12,20307.88,Retail,Q1 Social Boost,236,113,2467
+2024-04-06,Europe,France,Home Appliances,Blender Max,Jane Smith,162,50220,33279.55,16940.45,Enterprise,Holiday Promo,185,63,1266
+2024-01-01,Europe,UK,Home Appliances,Blender Max,Carlos Vega,34,6426,4513.48,1912.52,Retail,Q1 Social Boost,92,38,3495
+2024-04-08,North America,USA,Home Appliances,Air Conditioner A1,Jane Smith,175,74025,51541.67,22483.33,Wholesale,Spring Email Blast,245,58,4131
+2024-01-18,Europe,Germany,Clothing,Jeans Slim Fit,Jane Smith,108,34452,25254.7,9197.3,Retail,None,155,47,0
+2024-02-10,North America,Mexico,Clothing,Jeans Slim Fit,Alice Wong,13,4277,3481.72,795.28,Enterprise,None,133,35,0
+2024-03-26,Europe,UK,Books,History Chronicle,John Doe,169,64389,49047.28,15341.72,Retail,Spring Email Blast,156,92,4101
+2024-01-29,North America,Mexico,Clothing,T-shirt Classic,John Doe,172,63984,50505.25,13478.75,Wholesale,Holiday Promo,223,120,2491
+2024-02-13,Asia,China,Books,History Chronicle,Alice Wong,36,13032,8934.45,4097.55,Enterprise,Q1 Social Boost,216,110,2701
+2024-02-21,Asia,India,Home Appliances,Washing Machine W,John Doe,84,40572,28665.73,11906.27,Enterprise,None,113,65,0
+2024-02-02,Europe,Germany,Clothing,T-shirt Classic,John Doe,135,58590,43554.72,15035.28,Wholesale,Holiday Promo,91,10,2264
+2024-04-21,South America,Argentina,Home Appliances,Washing Machine W,Alice Wong,117,40248,31438.67,8809.33,Retail,None,164,38,0
+2024-02-02,South America,Chile,Books,Novel Alpha,Jane Smith,88,13816,11000.36,2815.64,Retail,None,197,105,0
+2024-02-15,North America,USA,Electronics,Smartwatch X,Jane Smith,92,19044,13558.5,5485.5,Enterprise,Q1 Social Boost,247,103,3901
+2024-01-01,Asia,India,Books,History Chronicle,Alice Wong,30,1770,1419.15,350.85,Wholesale,None,23,6,0
+2024-02-21,Asia,India,Clothing,Jeans Slim Fit,John Doe,172,11008,6826.63,4181.37,Retail,Spring Email Blast,206,122,4703
+2024-02-21,South America,Brazil,Clothing,T-shirt Classic,John Doe,85,6545,4354.16,2190.84,Enterprise,Q1 Social Boost,132,54,3178
+2024-04-08,North America,Mexico,Electronics,Smartwatch X,Jane Smith,66,9966,8745.17,1220.83,Retail,Holiday Promo,198,78,4086
+2024-02-24,Europe,UK,Books,Science Textbook,Jane Smith,34,14722,9544.7,5177.3,Retail,Holiday Promo,235,111,2606
+2024-04-14,North America,Mexico,Electronics,Smartwatch X,Carlos Vega,129,58050,37965.0,20085.0,Wholesale,None,82,12,0
+2024-01-17,Europe,Germany,Home Appliances,Air Conditioner A1,John Doe,94,25568,19512.28,6055.72,Enterprise,Holiday Promo,197,47,1824
+2024-02-02,South America,Chile,Electronics,Smartwatch X,Jane Smith,30,4380,3854.82,525.18,Retail,Spring Email Blast,166,88,4843
+2024-04-01,Europe,Germany,Clothing,T-shirt Classic,Jane Smith,116,24592,16087.08,8504.92,Retail,Holiday Promo,231,96,3951
+2024-02-02,South America,Chile,Electronics,Laptop Pro,Jane Smith,156,71448,50382.58,21065.42,Wholesale,Holiday Promo,258,107,709
+2024-02-18,South America,Chile,Clothing,Jeans Slim Fit,Jane Smith,197,41173,30890.88,10282.12,Retail,Spring Email Blast,38,19,704
+2024-01-28,Asia,China,Home Appliances,Blender Max,John Doe,117,55575,44326.97,11248.03,Retail,Holiday Promo,47,16,1400
+2024-02-17,Asia,India,Home Appliances,Air Conditioner A1,Carlos Vega,31,6882,4384.41,2497.59,Retail,Spring Email Blast,144,67,2269
+2024-03-19,Asia,China,Electronics,Laptop Pro,Carlos Vega,35,3885,2583.11,1301.89,Enterprise,Holiday Promo,165,33,3550
+2024-04-25,North America,Mexico,Home Appliances,Air Conditioner A1,Jane Smith,196,67228,46111.2,21116.8,Retail,Holiday Promo,98,30,3871
+2024-03-13,North America,Mexico,Electronics,Smartwatch X,Jane Smith,134,13266,10422.72,2843.28,Enterprise,Spring Email Blast,69,14,3239
+2024-04-13,Asia,China,Electronics,Smartwatch X,John Doe,44,18216,15679.03,2536.97,Wholesale,Spring Email Blast,229,128,2483
+2024-04-19,North America,Mexico,Electronics,Laptop Pro,Alice Wong,142,56516,38008.41,18507.59,Retail,Holiday Promo,162,89,2843
+2024-04-07,Asia,China,Clothing,Jacket Winter,Jane Smith,135,26865,16133.21,10731.79,Wholesale,Q1 Social Boost,53,10,3870
+2024-02-25,Asia,India,Clothing,Jacket Winter,John Doe,79,31916,25256.34,6659.66,Enterprise,Spring Email Blast,300,101,1890
+2024-04-01,North America,Canada,Home Appliances,Air Conditioner A1,Carlos Vega,21,3423,2268.29,1154.71,Wholesale,Q1 Social Boost,186,105,4305
+2024-02-06,Europe,Germany,Electronics,Smartwatch X,Alice Wong,69,30429,26264.95,4164.05,Enterprise,None,148,38,0
+2024-04-20,North America,Mexico,Electronics,Smartphone Z,Alice Wong,126,59598,44742.84,14855.16,Enterprise,Q1 Social Boost,48,19,4411
+2024-03-29,South America,Brazil,Books,History Chronicle,Jane Smith,90,37710,22853.58,14856.42,Retail,None,226,128,0
+2024-04-15,North America,Canada,Books,Novel Alpha,John Doe,105,11865,10035.57,1829.43,Retail,Holiday Promo,79,29,2570
+2024-03-14,Asia,India,Books,History Chronicle,Alice Wong,53,5671,4529.14,1141.86,Enterprise,Spring Email Blast,277,96,3247
+2024-02-23,South America,Argentina,Books,History Chronicle,Jane Smith,121,48763,31354.34,17408.66,Retail,Spring Email Blast,27,15,4797
+2024-04-15,Asia,China,Clothing,Jacket Winter,Alice Wong,67,29949,20291.12,9657.88,Wholesale,Spring Email Blast,271,70,2706
+2024-04-18,Asia,Japan,Electronics,Laptop Pro,Alice Wong,164,57072,43249.96,13822.04,Retail,Spring Email Blast,69,17,4723
+2024-04-06,Asia,Japan,Home Appliances,Blender Max,Jane Smith,65,23270,15781.39,7488.61,Enterprise,Q1 Social Boost,180,79,1130
+2024-01-30,South America,Brazil,Electronics,Smartphone Z,Alice Wong,91,13286,10314.32,2971.68,Retail,Holiday Promo,97,19,2898
+2024-04-16,North America,USA,Books,Science Textbook,Carlos Vega,25,10625,9152.18,1472.82,Enterprise,Spring Email Blast,206,66,1380
+2024-02-03,Europe,UK,Clothing,T-shirt Classic,Carlos Vega,182,54600,43885.07,10714.93,Retail,None,232,119,0
+2024-04-05,Asia,India,Home Appliances,Blender Max,Carlos Vega,79,9006,7083.53,1922.47,Retail,Q1 Social Boost,123,72,4526
+2024-01-28,Europe,France,Clothing,T-shirt Classic,John Doe,15,1335,1146.41,188.59,Retail,None,207,108,0
+2024-03-12,Europe,UK,Clothing,T-shirt Classic,Alice Wong,38,7334,6485.32,848.68,Wholesale,Q1 Social Boost,299,51,2615
+2024-04-25,Asia,Japan,Home Appliances,Washing Machine W,Alice Wong,31,1581,1203.02,377.98,Retail,Holiday Promo,248,117,4799
+2024-01-24,Asia,India,Home Appliances,Washing Machine W,Jane Smith,121,45859,27848.6,18010.4,Retail,None,102,52,0
+2024-04-19,South America,Argentina,Books,History Chronicle,Jane Smith,167,43587,31556.77,12030.23,Wholesale,None,26,7,0
+2024-03-27,Europe,France,Books,Novel Alpha,Jane Smith,55,19525,14100.58,5424.42,Enterprise,Spring Email Blast,225,30,4058
+2024-02-09,Europe,UK,Clothing,Jeans Slim Fit,Alice Wong,181,65522,54001.22,11520.78,Enterprise,Holiday Promo,144,30,830
+2024-03-05,Asia,Japan,Electronics,Smartphone Z,Alice Wong,135,16875,14400.81,2474.19,Enterprise,None,221,25,0
+2024-04-19,Asia,India,Electronics,Smartphone Z,Jane Smith,152,63992,52138.9,11853.1,Enterprise,Spring Email Blast,254,31,1535
+2024-02-11,Asia,India,Home Appliances,Air Conditioner A1,Alice Wong,169,83655,55501.69,28153.31,Enterprise,Q1 Social Boost,29,13,2280
+2024-01-18,Asia,India,Electronics,Laptop Pro,Alice Wong,181,23168,17435.29,5732.71,Retail,Holiday Promo,189,67,3483
+2024-03-28,South America,Chile,Books,History Chronicle,John Doe,121,52272,43734.65,8537.35,Retail,Spring Email Blast,123,31,1864
+2024-03-31,South America,Brazil,Books,Novel Alpha,Carlos Vega,113,24295,14922.29,9372.71,Enterprise,Q1 Social Boost,148,57,2687
+2024-02-18,North America,Mexico,Books,History Chronicle,Carlos Vega,153,36567,22021.02,14545.98,Enterprise,Q1 Social Boost,191,78,2187
+2024-04-05,Europe,France,Books,Novel Alpha,John Doe,29,12731,8215.96,4515.04,Enterprise,None,269,70,0
+2024-03-14,South America,Brazil,Electronics,Laptop Pro,Alice Wong,38,4788,3506.91,1281.09,Enterprise,Q1 Social Boost,40,17,3375
+2024-04-03,South America,Argentina,Books,Novel Alpha,John Doe,48,11472,8677.41,2794.59,Enterprise,Q1 Social Boost,220,45,4718
+2024-02-18,North America,Mexico,Books,History Chronicle,Alice Wong,188,81592,58076.9,23515.1,Enterprise,Holiday Promo,122,73,4800
+2024-01-06,South America,Brazil,Clothing,Jacket Winter,Carlos Vega,161,11592,10315.18,1276.82,Wholesale,Spring Email Blast,215,121,1713
+2024-03-20,North America,USA,Books,History Chronicle,John Doe,121,9317,6230.13,3086.87,Enterprise,Q1 Social Boost,283,41,2422
+2024-03-31,Asia,Japan,Electronics,Laptop Pro,Alice Wong,17,4607,4146.13,460.87,Enterprise,Spring Email Blast,296,171,4473
+2024-03-15,Asia,Japan,Books,History Chronicle,Alice Wong,141,36096,28137.9,7958.1,Enterprise,Spring Email Blast,297,50,915
+2024-04-10,Europe,UK,Clothing,Jeans Slim Fit,Jane Smith,165,71610,61509.84,10100.16,Retail,Holiday Promo,100,30,1123
+2024-04-22,Asia,India,Clothing,Jacket Winter,Carlos Vega,146,17958,13199.84,4758.16,Retail,Spring Email Blast,163,61,1949
+2024-02-07,South America,Argentina,Home Appliances,Blender Max,Alice Wong,176,41360,31811.89,9548.11,Enterprise,Q1 Social Boost,140,54,2985
+2024-01-22,North America,USA,Books,Novel Alpha,John Doe,138,55614,35159.42,20454.58,Enterprise,Spring Email Blast,178,83,2521
+2024-03-06,North America,Mexico,Clothing,Jacket Winter,Alice Wong,186,52266,34699.07,17566.93,Enterprise,None,234,101,0
+2024-01-20,North America,Mexico,Books,Novel Alpha,Alice Wong,78,34008,23893.21,10114.79,Wholesale,Spring Email Blast,183,82,4103
+2024-03-25,North America,USA,Electronics,Smartphone Z,Jane Smith,92,22264,14113.02,8150.98,Retail,Spring Email Blast,289,70,2234
+2024-02-19,Asia,India,Books,Novel Alpha,John Doe,200,46400,33000.33,13399.67,Enterprise,Q1 Social Boost,273,127,3989
+2024-03-24,Europe,UK,Electronics,Laptop Pro,Alice Wong,122,35990,27078.86,8911.14,Enterprise,None,145,72,0
+2024-02-27,Asia,India,Electronics,Smartphone Z,John Doe,95,45695,36645.2,9049.8,Wholesale,None,232,102,0
+2024-04-09,Europe,Germany,Books,Science Textbook,Carlos Vega,157,20253,13382.21,6870.79,Enterprise,Spring Email Blast,119,54,3366
+2024-04-21,South America,Brazil,Books,History Chronicle,Jane Smith,76,35036,23389.06,11646.94,Wholesale,None,39,4,0
+2024-01-11,Asia,Japan,Home Appliances,Air Conditioner A1,Jane Smith,86,20898,15190.43,5707.57,Wholesale,Spring Email Blast,115,34,3590
+2024-03-26,North America,Canada,Clothing,Jacket Winter,Jane Smith,69,20838,17099.43,3738.57,Retail,Spring Email Blast,258,144,2222
+2024-04-28,South America,Brazil,Clothing,Jacket Winter,John Doe,104,52000,44735.7,7264.3,Enterprise,Spring Email Blast,259,86,1416
+2024-02-23,North America,Canada,Home Appliances,Air Conditioner A1,Jane Smith,184,85744,62400.46,23343.54,Wholesale,None,145,25,0
+2024-04-09,North America,Mexico,Electronics,Smartphone Z,Carlos Vega,126,47376,42351.15,5024.85,Retail,Spring Email Blast,119,37,2442
+2024-02-05,Asia,India,Electronics,Smartwatch X,Jane Smith,166,41168,28354.79,12813.21,Wholesale,Q1 Social Boost,214,112,2755
+2024-04-01,Europe,France,Home Appliances,Washing Machine W,Alice Wong,197,18124,11511.03,6612.97,Wholesale,Q1 Social Boost,92,39,3293
+2024-02-02,Europe,UK,Books,Novel Alpha,Carlos Vega,171,76266,67566.17,8699.83,Retail,None,46,6,0
+2024-01-17,Europe,Germany,Home Appliances,Air Conditioner A1,Jane Smith,121,12826,8353.1,4472.9,Wholesale,Holiday Promo,264,42,1654
+2024-04-04,Asia,India,Books,Novel Alpha,John Doe,100,21500,16142.06,5357.94,Wholesale,None,176,46,0
+2024-02-02,Europe,UK,Home Appliances,Blender Max,Alice Wong,56,23128,15148.38,7979.62,Enterprise,None,142,80,0
+2024-04-19,North America,Mexico,Clothing,Jacket Winter,Jane Smith,159,15105,10956.98,4148.02,Enterprise,Q1 Social Boost,215,72,1879
+2024-04-10,Asia,Japan,Electronics,Laptop Pro,Carlos Vega,79,32785,26843.03,5941.97,Enterprise,None,63,22,0
+2024-03-24,South America,Argentina,Electronics,Smartwatch X,Carlos Vega,47,22137,19188.38,2948.62,Wholesale,Holiday Promo,111,59,4026
+2024-01-16,South America,Brazil,Books,History Chronicle,Jane Smith,85,10200,6891.4,3308.6,Wholesale,None,44,19,0
+2024-02-12,Asia,Japan,Clothing,Jeans Slim Fit,Jane Smith,108,33048,24058.81,8989.19,Enterprise,Holiday Promo,160,38,2493
+2024-04-10,Europe,France,Books,Novel Alpha,Jane Smith,52,6864,5742.78,1121.22,Retail,Q1 Social Boost,38,8,859
+2024-01-04,South America,Chile,Books,Novel Alpha,Alice Wong,103,15759,11595.45,4163.55,Enterprise,Holiday Promo,91,52,827
+2024-02-20,Europe,UK,Home Appliances,Air Conditioner A1,Jane Smith,152,70984,50401.83,20582.17,Enterprise,Spring Email Blast,212,75,4182
+2024-04-06,Asia,India,Home Appliances,Washing Machine W,Carlos Vega,69,15180,12138.57,3041.43,Retail,Q1 Social Boost,30,3,2080
+2024-04-18,North America,USA,Clothing,Jacket Winter,Carlos Vega,120,36120,28724.59,7395.41,Enterprise,Holiday Promo,132,68,4578
+2024-03-24,Europe,France,Clothing,Jeans Slim Fit,John Doe,159,59466,43330.91,16135.09,Wholesale,Q1 Social Boost,249,35,4537
+2024-03-13,Europe,UK,Clothing,T-shirt Classic,Alice Wong,142,31382,25583.52,5798.48,Retail,Spring Email Blast,199,63,766
+2024-04-21,North America,Mexico,Clothing,T-shirt Classic,Jane Smith,13,4082,2803.91,1278.09,Wholesale,None,224,80,0
+2024-02-14,Europe,Germany,Electronics,Smartphone Z,John Doe,185,79550,51712.31,27837.69,Wholesale,None,111,65,0
+2024-02-11,Asia,China,Books,Novel Alpha,Jane Smith,57,25365,22779.72,2585.28,Wholesale,Q1 Social Boost,50,21,3968
+2024-03-11,Europe,France,Home Appliances,Blender Max,Carlos Vega,17,1411,964.11,446.89,Wholesale,None,169,44,0
+2024-04-27,North America,USA,Electronics,Smartphone Z,John Doe,171,35739,27539.63,8199.37,Wholesale,None,37,20,0
+2024-01-02,North America,Canada,Electronics,Laptop Pro,Alice Wong,68,9520,7284.53,2235.47,Wholesale,Spring Email Blast,104,12,3230
+2024-03-09,North America,Canada,Home Appliances,Blender Max,Alice Wong,67,33299,29338.82,3960.18,Retail,None,179,102,0
+2024-02-11,South America,Chile,Home Appliances,Air Conditioner A1,John Doe,144,36576,28323.3,8252.7,Retail,None,57,16,0
+2024-01-31,Asia,Japan,Clothing,T-shirt Classic,Carlos Vega,40,10160,9020.55,1139.45,Wholesale,None,225,120,0
+2024-02-20,Asia,Japan,Clothing,T-shirt Classic,Alice Wong,10,2190,1968.77,221.23,Wholesale,Spring Email Blast,145,41,1845
+2024-01-29,Asia,Japan,Clothing,Jeans Slim Fit,John Doe,52,14560,10895.26,3664.74,Wholesale,Holiday Promo,92,12,3473
+2024-01-18,Asia,Japan,Home Appliances,Air Conditioner A1,Jane Smith,26,3198,2408.97,789.03,Enterprise,Holiday Promo,210,28,1500
+2024-03-14,Europe,France,Clothing,Jeans Slim Fit,Alice Wong,173,16608,10627.92,5980.08,Retail,Holiday Promo,160,18,4672
+2024-01-06,North America,USA,Clothing,T-shirt Classic,Alice Wong,141,23406,14136.1,9269.9,Wholesale,Spring Email Blast,177,23,2972
+2024-03-10,Asia,Japan,Clothing,Jacket Winter,Carlos Vega,121,60379,48001.11,12377.89,Retail,Q1 Social Boost,281,59,3453
+2024-03-01,South America,Argentina,Electronics,Smartwatch X,Alice Wong,12,3408,2529.04,878.96,Enterprise,None,187,92,0
+2024-01-09,Asia,Japan,Electronics,Smartwatch X,Carlos Vega,75,7200,5678.25,1521.75,Wholesale,Spring Email Blast,173,40,1435
+2024-01-06,North America,USA,Electronics,Smartphone Z,John Doe,33,15477,12884.99,2592.01,Wholesale,None,78,40,0
+2024-01-12,North America,Mexico,Home Appliances,Washing Machine W,Alice Wong,151,49377,37236.38,12140.62,Wholesale,Q1 Social Boost,209,70,1972
+2024-02-20,North America,Canada,Books,History Chronicle,Alice Wong,107,10700,6504.25,4195.75,Retail,Q1 Social Boost,80,21,1399
+2024-04-10,Asia,Japan,Home Appliances,Air Conditioner A1,Alice Wong,118,58410,39881.68,18528.32,Wholesale,None,131,19,0
+2024-02-26,North America,USA,Home Appliances,Washing Machine W,Carlos Vega,20,6260,5429.56,830.44,Retail,Holiday Promo,99,52,1519
+2024-01-28,Europe,Germany,Electronics,Smartphone Z,Alice Wong,66,14586,11144.68,3441.32,Enterprise,Spring Email Blast,71,34,2407
+2024-02-24,North America,Mexico,Home Appliances,Air Conditioner A1,Jane Smith,155,25110,16723.94,8386.06,Enterprise,Spring Email Blast,44,20,2810
+2024-03-03,South America,Argentina,Electronics,Smartwatch X,Alice Wong,99,10395,7378.86,3016.14,Enterprise,None,210,68,0
+2024-04-02,Europe,Germany,Electronics,Smartphone Z,John Doe,67,13467,11963.71,1503.29,Enterprise,Spring Email Blast,117,37,1939
+2024-04-03,Europe,France,Home Appliances,Washing Machine W,John Doe,178,9434,7249.82,2184.18,Enterprise,None,244,70,0
+2024-02-26,Europe,France,Home Appliances,Air Conditioner A1,Alice Wong,160,9760,7438.8,2321.2,Wholesale,Holiday Promo,259,90,579
+2024-01-14,Asia,China,Books,Science Textbook,Alice Wong,72,22176,18414.74,3761.26,Wholesale,Holiday Promo,174,31,1057
+2024-01-09,Europe,Germany,Books,History Chronicle,Carlos Vega,162,64962,40264.52,24697.48,Retail,Q1 Social Boost,82,13,568
+2024-01-16,Europe,France,Electronics,Laptop Pro,Alice Wong,42,18102,14723.04,3378.96,Wholesale,Spring Email Blast,147,26,1954
+2024-02-04,Europe,Germany,Books,Science Textbook,Carlos Vega,15,1110,912.82,197.18,Enterprise,Holiday Promo,33,4,3179
+2024-01-30,North America,USA,Books,History Chronicle,Alice Wong,166,29714,26618.64,3095.36,Enterprise,Spring Email Blast,263,28,4265
+2024-01-14,Europe,Germany,Clothing,Jacket Winter,Jane Smith,196,71540,49442.7,22097.3,Enterprise,Holiday Promo,184,57,1061
+2024-02-14,North America,Canada,Books,Novel Alpha,Carlos Vega,17,4352,3373.18,978.82,Retail,None,207,42,0
+2024-01-23,Asia,China,Books,Novel Alpha,Alice Wong,115,49220,35718.31,13501.69,Wholesale,Spring Email Blast,299,144,4982
+2024-03-27,North America,Canada,Clothing,T-shirt Classic,Carlos Vega,100,10400,8759.53,1640.47,Wholesale,Holiday Promo,254,79,663
+2024-04-09,Europe,France,Books,Science Textbook,John Doe,76,38000,33009.58,4990.42,Enterprise,Holiday Promo,290,124,1038
+2024-01-10,South America,Argentina,Electronics,Smartwatch X,Alice Wong,42,6804,5549.88,1254.12,Wholesale,Q1 Social Boost,59,19,528
+2024-03-12,North America,Canada,Electronics,Laptop Pro,John Doe,146,49494,42446.0,7048.0,Wholesale,None,137,19,0
+2024-04-18,Europe,Germany,Electronics,Smartwatch X,Alice Wong,114,19038,14634.45,4403.55,Retail,Q1 Social Boost,115,57,4232
+2024-04-30,Asia,India,Clothing,Jeans Slim Fit,John Doe,158,74260,60507.14,13752.86,Enterprise,Holiday Promo,140,29,2696
+2024-04-30,Europe,Germany,Books,Science Textbook,Jane Smith,99,11286,9925.82,1360.18,Retail,Q1 Social Boost,77,26,911
+2024-04-30,Asia,India,Clothing,Jeans Slim Fit,Carlos Vega,32,7008,5994.47,1013.53,Wholesale,Spring Email Blast,124,68,862
+2024-03-07,Europe,UK,Electronics,Smartwatch X,Alice Wong,69,15318,11625.73,3692.27,Retail,Holiday Promo,184,40,1482
+2024-04-25,North America,Mexico,Books,Science Textbook,Alice Wong,122,25620,22108.7,3511.3,Wholesale,Q1 Social Boost,80,47,2358
+2024-02-12,Asia,Japan,Home Appliances,Blender Max,Alice Wong,135,22950,19740.74,3209.26,Wholesale,Q1 Social Boost,20,11,2224
+2024-03-20,Europe,France,Home Appliances,Blender Max,Carlos Vega,166,49800,30030.15,19769.85,Wholesale,Holiday Promo,151,48,1260
+2024-02-02,Asia,China,Home Appliances,Washing Machine W,Alice Wong,103,7828,5755.11,2072.89,Retail,None,139,63,0
+2024-03-14,Europe,France,Home Appliances,Air Conditioner A1,John Doe,82,10250,8484.21,1765.79,Wholesale,None,117,12,0
+2024-04-05,Europe,Germany,Electronics,Smartwatch X,John Doe,142,54102,39850.95,14251.05,Enterprise,None,33,16,0
+2024-03-30,South America,Brazil,Clothing,Jacket Winter,Alice Wong,57,27930,20879.55,7050.45,Wholesale,Q1 Social Boost,283,58,503
+2024-03-21,Asia,China,Books,History Chronicle,John Doe,137,64801,46490.54,18310.46,Enterprise,Q1 Social Boost,262,99,1819
+2024-02-10,Asia,Japan,Clothing,T-shirt Classic,Jane Smith,26,9282,7578.67,1703.33,Retail,Q1 Social Boost,209,54,1454
+2024-04-27,South America,Chile,Books,Novel Alpha,Carlos Vega,125,61000,50538.78,10461.22,Retail,Q1 Social Boost,217,81,4105
+2024-03-30,South America,Chile,Home Appliances,Air Conditioner A1,John Doe,157,18997,12749.43,6247.57,Wholesale,None,205,75,0
+2024-01-01,Europe,UK,Books,Novel Alpha,Alice Wong,163,74165,54017.56,20147.44,Wholesale,None,20,7,0
+2024-04-29,Europe,France,Books,Science Textbook,John Doe,101,27371,18565.94,8805.06,Enterprise,Spring Email Blast,288,64,4826
+2024-01-27,Europe,UK,Home Appliances,Air Conditioner A1,Carlos Vega,126,50274,38977.83,11296.17,Wholesale,Spring Email Blast,22,9,1665
+2024-04-28,North America,Canada,Clothing,Jacket Winter,John Doe,97,21728,13934.64,7793.36,Enterprise,Spring Email Blast,47,17,2474
+2024-02-18,North America,Mexico,Books,Science Textbook,John Doe,166,52124,38537.65,13586.35,Wholesale,Holiday Promo,227,43,4033
+2024-04-27,Europe,France,Books,History Chronicle,Alice Wong,133,52535,42294.13,10240.87,Retail,None,44,21,0
+2024-01-29,Europe,Germany,Books,Science Textbook,Alice Wong,165,25245,22376.01,2868.99,Wholesale,Holiday Promo,43,11,2497
+2024-01-04,Asia,Japan,Electronics,Smartwatch X,Carlos Vega,46,11592,10300.04,1291.96,Retail,None,32,11,0
+2024-04-05,North America,USA,Clothing,Jeans Slim Fit,Carlos Vega,190,63270,40826.92,22443.08,Enterprise,Q1 Social Boost,70,36,4792
+2024-02-16,Europe,Germany,Clothing,Jacket Winter,Jane Smith,163,36675,23350.03,13324.97,Retail,Spring Email Blast,190,112,4260
+2024-01-02,South America,Brazil,Clothing,T-shirt Classic,Carlos Vega,151,12835,8877.39,3957.61,Retail,None,172,89,0
+2024-02-27,North America,Mexico,Electronics,Smartwatch X,Alice Wong,155,55645,47597.66,8047.34,Retail,None,70,16,0
+2024-01-01,Asia,China,Electronics,Smartwatch X,John Doe,60,25980,23150.23,2829.77,Wholesale,Q1 Social Boost,248,116,2908
+2024-02-01,South America,Brazil,Books,Novel Alpha,Carlos Vega,126,39186,34819.71,4366.29,Wholesale,None,267,44,0
+2024-02-14,Europe,UK,Home Appliances,Air Conditioner A1,Jane Smith,168,45360,38733.01,6626.99,Retail,Q1 Social Boost,260,74,4553
+2024-04-07,Europe,UK,Electronics,Smartwatch X,Carlos Vega,116,20880,14320.01,6559.99,Wholesale,Q1 Social Boost,96,36,4673
+2024-02-11,Asia,Japan,Clothing,Jeans Slim Fit,Alice Wong,69,6210,3935.74,2274.26,Wholesale,None,263,30,0
+2024-04-14,Europe,UK,Electronics,Smartwatch X,John Doe,30,4140,3685.1,454.9,Wholesale,Q1 Social Boost,291,155,3353
+2024-04-15,North America,Mexico,Clothing,Jeans Slim Fit,Jane Smith,139,19599,17605.73,1993.27,Enterprise,None,243,36,0
+2024-02-10,South America,Argentina,Home Appliances,Blender Max,Alice Wong,63,10080,7674.53,2405.47,Enterprise,Holiday Promo,149,43,1320
+2024-03-23,Europe,Germany,Electronics,Laptop Pro,Alice Wong,150,9000,6440.01,2559.99,Retail,Spring Email Blast,220,73,1192
+2024-01-29,North America,Mexico,Electronics,Smartwatch X,Jane Smith,114,24966,20090.83,4875.17,Retail,Spring Email Blast,123,53,1997
+2024-01-24,Asia,China,Books,Science Textbook,Carlos Vega,39,12168,10284.9,1883.1,Retail,Holiday Promo,277,92,4883
+2024-02-28,South America,Chile,Books,Novel Alpha,Alice Wong,190,37620,26458.69,11161.31,Retail,Q1 Social Boost,73,19,2373
+2024-01-04,Asia,China,Home Appliances,Air Conditioner A1,Carlos Vega,11,3729,2937.13,791.87,Wholesale,None,108,18,0
+2024-01-04,North America,Mexico,Electronics,Smartwatch X,Alice Wong,144,15120,13560.53,1559.47,Retail,None,79,19,0
+2024-01-07,North America,Canada,Books,Science Textbook,Jane Smith,123,9963,7889.92,2073.08,Wholesale,Spring Email Blast,51,16,1074
+2024-01-25,North America,Canada,Home Appliances,Air Conditioner A1,Carlos Vega,110,34430,28278.1,6151.9,Retail,Q1 Social Boost,284,41,4011
+2024-03-30,Europe,Germany,Electronics,Smartphone Z,Carlos Vega,44,19756,12506.43,7249.57,Wholesale,Spring Email Blast,238,49,4811
+2024-03-09,North America,USA,Home Appliances,Air Conditioner A1,John Doe,179,20764,14412.22,6351.78,Enterprise,None,254,47,0
+2024-04-15,North America,Mexico,Books,Novel Alpha,John Doe,190,38950,23998.01,14951.99,Retail,Spring Email Blast,78,8,1449
+2024-02-28,Asia,Japan,Clothing,T-shirt Classic,Jane Smith,20,2340,1947.75,392.25,Enterprise,Spring Email Blast,57,20,4407
+2024-04-16,North America,USA,Home Appliances,Blender Max,Alice Wong,26,11778,10426.36,1351.64,Enterprise,Holiday Promo,223,62,2297
+2024-01-24,Asia,Japan,Electronics,Smartwatch X,Jane Smith,152,52592,46317.84,6274.16,Wholesale,Holiday Promo,37,19,872
+2024-01-04,South America,Argentina,Books,History Chronicle,Jane Smith,26,7462,5886.05,1575.95,Enterprise,None,82,38,0
+2024-04-08,Asia,China,Clothing,Jeans Slim Fit,John Doe,188,28388,23741.95,4646.05,Enterprise,Holiday Promo,287,108,2061
+2024-01-03,North America,Mexico,Home Appliances,Washing Machine W,John Doe,76,31920,27140.98,4779.02,Enterprise,Spring Email Blast,218,107,2865
+2024-03-05,North America,Mexico,Home Appliances,Washing Machine W,Alice Wong,108,18360,12588.57,5771.43,Retail,Q1 Social Boost,298,149,4382
+2024-03-08,Asia,Japan,Electronics,Laptop Pro,John Doe,35,5320,4647.31,672.69,Retail,None,195,76,0
+2024-01-29,Asia,Japan,Books,Science Textbook,John Doe,107,45047,27452.37,17594.63,Retail,Holiday Promo,120,12,1125
+2024-04-11,South America,Chile,Electronics,Laptop Pro,John Doe,161,27048,16933.06,10114.94,Retail,Holiday Promo,240,110,3050
+2024-02-15,South America,Chile,Books,History Chronicle,Jane Smith,43,2365,1614.38,750.62,Enterprise,None,266,46,0
+2024-01-19,Europe,UK,Books,History Chronicle,Jane Smith,91,19201,13097.91,6103.09,Retail,None,185,80,0
+2024-02-26,Asia,China,Clothing,T-shirt Classic,Carlos Vega,11,1529,1136.31,392.69,Enterprise,Holiday Promo,236,48,1666
+2024-02-16,North America,USA,Electronics,Laptop Pro,Jane Smith,193,73533,56439.87,17093.13,Retail,Spring Email Blast,141,52,2751
+2024-01-26,Europe,Germany,Books,History Chronicle,John Doe,191,64176,52259.04,11916.96,Wholesale,None,81,14,0
+2024-01-07,North America,Canada,Home Appliances,Blender Max,Carlos Vega,101,21210,18226.17,2983.83,Wholesale,None,152,48,0
+2024-01-22,South America,Chile,Books,History Chronicle,Jane Smith,26,11570,9508.46,2061.54,Retail,Q1 Social Boost,145,58,2867
+2024-03-21,North America,Mexico,Electronics,Laptop Pro,Carlos Vega,126,41706,27333.75,14372.25,Retail,None,189,21,0
+2024-03-01,Europe,Germany,Electronics,Smartphone Z,John Doe,95,34770,29150.06,5619.94,Retail,Spring Email Blast,298,142,1585
+2024-01-09,North America,USA,Books,Novel Alpha,Carlos Vega,56,6888,5929.17,958.83,Retail,Q1 Social Boost,279,72,500
+2024-01-26,Europe,UK,Books,Novel Alpha,Carlos Vega,123,51291,44780.84,6510.16,Enterprise,Q1 Social Boost,194,28,4563
+2024-04-30,Asia,Japan,Clothing,Jeans Slim Fit,Jane Smith,66,14652,12302.24,2349.76,Enterprise,Spring Email Blast,42,4,4620
+2024-04-02,Asia,India,Electronics,Smartphone Z,Carlos Vega,86,23220,18292.13,4927.87,Enterprise,None,134,56,0
+2024-01-25,North America,Mexico,Home Appliances,Washing Machine W,Alice Wong,188,28764,21330.44,7433.56,Enterprise,Holiday Promo,296,39,541
+2024-04-12,Asia,Japan,Books,History Chronicle,Alice Wong,151,23707,16776.54,6930.46,Retail,Spring Email Blast,195,33,1324
+2024-03-01,Asia,Japan,Clothing,Jacket Winter,John Doe,65,20280,16283.33,3996.67,Wholesale,Holiday Promo,27,5,2037
+2024-04-28,North America,USA,Electronics,Laptop Pro,Jane Smith,164,37884,30828.21,7055.79,Wholesale,Q1 Social Boost,251,108,2673
+2024-04-20,Europe,France,Books,History Chronicle,Jane Smith,104,27664,21172.78,6491.22,Wholesale,Q1 Social Boost,28,4,2396
+2024-01-12,South America,Brazil,Electronics,Laptop Pro,Carlos Vega,160,15040,9192.58,5847.42,Enterprise,Holiday Promo,217,104,1813
+2024-01-07,Europe,Germany,Clothing,Jacket Winter,John Doe,120,33240,25469.4,7770.6,Wholesale,Holiday Promo,258,77,2300
+2024-03-06,Europe,UK,Books,Novel Alpha,Carlos Vega,197,90029,56116.91,33912.09,Enterprise,Q1 Social Boost,129,50,2196
+2024-01-17,South America,Brazil,Home Appliances,Air Conditioner A1,Carlos Vega,158,32390,19721.78,12668.22,Enterprise,Spring Email Blast,73,31,1803
+2024-02-29,South America,Chile,Clothing,T-shirt Classic,Alice Wong,128,27520,23716.78,3803.22,Enterprise,Holiday Promo,247,136,3849
+2024-02-16,Europe,France,Home Appliances,Blender Max,Jane Smith,196,15876,13671.87,2204.13,Wholesale,Holiday Promo,266,135,2338
+2024-01-23,South America,Chile,Clothing,T-shirt Classic,Carlos Vega,142,8094,5523.15,2570.85,Retail,Q1 Social Boost,89,10,1395
+2024-01-22,Europe,UK,Home Appliances,Washing Machine W,Alice Wong,138,16146,14067.32,2078.68,Retail,Q1 Social Boost,285,159,3671
+2024-03-20,South America,Brazil,Home Appliances,Blender Max,John Doe,72,3600,2547.81,1052.19,Retail,Q1 Social Boost,207,69,1156
+2024-02-04,North America,Mexico,Clothing,Jeans Slim Fit,Carlos Vega,77,34496,23803.9,10692.1,Wholesale,Holiday Promo,28,6,1620
+2024-02-18,Europe,Germany,Home Appliances,Blender Max,Alice Wong,124,61504,50259.97,11244.03,Wholesale,Q1 Social Boost,132,55,2038
+2024-04-09,North America,Mexico,Electronics,Smartwatch X,Jane Smith,27,1593,1059.28,533.72,Wholesale,None,299,54,0
+2024-03-01,North America,Canada,Home Appliances,Washing Machine W,John Doe,107,25359,19173.4,6185.6,Enterprise,None,145,40,0
+2024-02-19,North America,Mexico,Electronics,Smartphone Z,John Doe,91,34125,28803.85,5321.15,Wholesale,Spring Email Blast,195,22,3005
+2024-01-15,Asia,China,Home Appliances,Blender Max,Jane Smith,119,31892,19420.49,12471.51,Enterprise,Spring Email Blast,173,93,3334
+2024-03-25,North America,Canada,Electronics,Laptop Pro,John Doe,125,45000,35302.11,9697.89,Retail,Holiday Promo,37,6,1641
+2024-01-24,Asia,India,Books,History Chronicle,Alice Wong,77,14553,11003.52,3549.48,Retail,Spring Email Blast,109,53,670
+2024-03-22,South America,Brazil,Books,History Chronicle,Jane Smith,143,62205,40393.21,21811.79,Retail,Q1 Social Boost,143,82,4237
+2024-01-25,Asia,China,Electronics,Smartwatch X,Carlos Vega,46,15870,13034.95,2835.05,Enterprise,Holiday Promo,120,48,2969
+2024-03-02,Asia,India,Electronics,Smartwatch X,John Doe,145,37410,30919.71,6490.29,Enterprise,Q1 Social Boost,51,28,2730
+2024-04-11,South America,Brazil,Clothing,Jacket Winter,Alice Wong,19,2432,2157.69,274.31,Enterprise,Spring Email Blast,130,28,2076
+2024-04-11,Europe,UK,Clothing,Jeans Slim Fit,Alice Wong,12,5832,3676.49,2155.51,Enterprise,Q1 Social Boost,54,6,2506
+2024-03-17,Asia,Japan,Books,Novel Alpha,Jane Smith,131,17423,10848.78,6574.22,Retail,Holiday Promo,171,41,3793
+2024-04-17,Europe,Germany,Electronics,Smartphone Z,Jane Smith,159,77910,59881.71,18028.29,Retail,None,269,69,0
+2024-02-28,Asia,Japan,Clothing,T-shirt Classic,John Doe,189,12096,7332.16,4763.84,Retail,Holiday Promo,262,129,3669
+2024-01-25,Asia,China,Home Appliances,Air Conditioner A1,Alice Wong,102,9486,6886.19,2599.81,Enterprise,None,140,27,0
+2024-04-09,South America,Chile,Books,Science Textbook,Jane Smith,160,55680,45499.28,10180.72,Wholesale,Q1 Social Boost,233,30,2383
+2024-04-23,Asia,India,Books,Science Textbook,Carlos Vega,105,18060,11317.56,6742.44,Wholesale,None,275,102,0
+2024-03-20,Asia,Japan,Clothing,T-shirt Classic,Carlos Vega,52,14560,9348.46,5211.54,Enterprise,Q1 Social Boost,243,37,1417
+2024-01-07,North America,USA,Electronics,Laptop Pro,John Doe,138,21666,13180.29,8485.71,Wholesale,Q1 Social Boost,97,47,2600
+2024-01-29,Asia,India,Home Appliances,Blender Max,Jane Smith,80,15600,10588.4,5011.6,Wholesale,Spring Email Blast,166,57,4055
+2024-03-18,Asia,Japan,Electronics,Smartphone Z,Alice Wong,111,13098,10444.7,2653.3,Enterprise,None,108,28,0
+2024-04-30,South America,Brazil,Books,Novel Alpha,John Doe,148,62012,55527.93,6484.07,Wholesale,Holiday Promo,151,48,4891
+2024-03-18,Asia,India,Electronics,Laptop Pro,Carlos Vega,151,29898,23256.29,6641.71,Retail,None,205,80,0
+2024-01-03,Europe,Germany,Electronics,Smartwatch X,Carlos Vega,13,4771,3401.29,1369.71,Wholesale,Holiday Promo,83,43,3170
+2024-01-08,South America,Brazil,Clothing,Jacket Winter,Alice Wong,73,29711,22374.23,7336.77,Retail,Holiday Promo,165,92,3217
+2024-01-12,Europe,UK,Electronics,Smartphone Z,Alice Wong,181,32761,22611.21,10149.79,Wholesale,None,207,79,0
+2024-04-23,Europe,France,Clothing,T-shirt Classic,Jane Smith,152,8664,7644.72,1019.28,Wholesale,Spring Email Blast,85,16,3170
+2024-03-25,Europe,Germany,Books,Novel Alpha,John Doe,171,15732,10009.5,5722.5,Enterprise,Q1 Social Boost,223,40,2479
+2024-03-14,Europe,France,Clothing,T-shirt Classic,Carlos Vega,127,10287,8572.47,1714.53,Retail,Holiday Promo,31,4,4704
+2024-02-03,North America,Canada,Books,Novel Alpha,Jane Smith,51,13311,11972.86,1338.14,Enterprise,Holiday Promo,176,62,583
+2024-04-04,Asia,Japan,Clothing,Jeans Slim Fit,John Doe,114,5700,4858.96,841.04,Enterprise,Spring Email Blast,187,28,3317
+2024-02-17,South America,Chile,Electronics,Laptop Pro,Jane Smith,21,1260,1059.59,200.41,Enterprise,Spring Email Blast,252,112,869
+2024-02-18,Europe,France,Books,History Chronicle,Alice Wong,55,7975,6497.54,1477.46,Enterprise,Holiday Promo,106,58,3833
+2024-03-06,Asia,China,Books,Science Textbook,Carlos Vega,146,31244,20647.85,10596.15,Enterprise,Holiday Promo,299,149,2248
+2024-01-14,Europe,Germany,Home Appliances,Air Conditioner A1,Jane Smith,81,17415,15013.36,2401.64,Wholesale,Q1 Social Boost,140,20,1410
+2024-04-28,South America,Brazil,Electronics,Laptop Pro,Carlos Vega,12,3852,2349.64,1502.36,Enterprise,Q1 Social Boost,300,84,4532
+2024-03-23,Asia,Japan,Clothing,Jacket Winter,Jane Smith,47,4089,3089.98,999.02,Enterprise,Holiday Promo,146,40,1824
+2024-03-19,South America,Argentina,Electronics,Smartwatch X,Carlos Vega,115,20930,13618.52,7311.48,Retail,Q1 Social Boost,82,24,540
+2024-04-04,North America,Mexico,Books,Novel Alpha,Alice Wong,159,37047,23902.76,13144.24,Wholesale,None,295,71,0
+2024-04-27,North America,Canada,Electronics,Laptop Pro,Carlos Vega,98,8722,7047.7,1674.3,Retail,None,298,148,0
+2024-03-09,Asia,Japan,Clothing,Jacket Winter,Jane Smith,20,4420,3121.95,1298.05,Retail,Spring Email Blast,147,30,3638
+2024-04-09,Asia,Japan,Electronics,Laptop Pro,Alice Wong,86,21156,17745.09,3410.91,Enterprise,Holiday Promo,114,24,3392
+2024-02-27,North America,Mexico,Electronics,Smartphone Z,Alice Wong,183,16470,14555.59,1914.41,Retail,Q1 Social Boost,57,25,1535
+2024-04-07,Europe,Germany,Electronics,Smartwatch X,Carlos Vega,35,2870,2448.94,421.06,Retail,None,94,51,0
+2024-03-25,North America,Mexico,Electronics,Smartphone Z,Alice Wong,173,78023,64332.81,13690.19,Retail,Holiday Promo,106,11,3504
+2024-03-22,North America,Canada,Home Appliances,Air Conditioner A1,Jane Smith,65,31070,21472.61,9597.39,Enterprise,Holiday Promo,158,57,521
+2024-01-22,Europe,France,Electronics,Smartphone Z,Jane Smith,153,48348,37017.49,11330.51,Wholesale,Spring Email Blast,174,44,4051
+2024-04-28,Asia,India,Home Appliances,Washing Machine W,John Doe,101,45248,38616.2,6631.8,Wholesale,Spring Email Blast,110,16,1790
+2024-03-12,Europe,Germany,Clothing,Jeans Slim Fit,Carlos Vega,137,36716,29799.52,6916.48,Enterprise,Holiday Promo,92,34,4651
+2024-02-05,Europe,Germany,Home Appliances,Washing Machine W,Alice Wong,192,34560,21493.65,13066.35,Wholesale,Spring Email Blast,85,41,3579
+2024-03-30,North America,Canada,Clothing,Jacket Winter,John Doe,22,3850,2553.64,1296.36,Retail,None,152,78,0
+2024-04-25,Europe,UK,Electronics,Smartphone Z,Carlos Vega,65,3315,2264.17,1050.83,Enterprise,Holiday Promo,253,124,3126
+2024-01-11,Asia,India,Home Appliances,Blender Max,Carlos Vega,83,29382,20164.49,9217.51,Enterprise,Holiday Promo,84,44,4519
+2024-01-24,South America,Chile,Electronics,Laptop Pro,Carlos Vega,49,8918,5463.78,3454.22,Wholesale,Q1 Social Boost,270,120,4028
+2024-01-25,Asia,Japan,Books,Science Textbook,Jane Smith,66,17160,10429.54,6730.46,Retail,None,57,18,0
+2024-02-11,South America,Argentina,Home Appliances,Blender Max,Alice Wong,123,32964,21375.1,11588.9,Wholesale,None,147,40,0
+2024-03-04,South America,Brazil,Home Appliances,Blender Max,John Doe,29,12615,11063.37,1551.63,Retail,Q1 Social Boost,160,16,4589
+2024-04-30,Europe,Germany,Home Appliances,Blender Max,John Doe,29,3770,2901.54,868.46,Retail,None,63,25,0
+2024-01-26,Asia,India,Electronics,Smartwatch X,Jane Smith,10,2680,1851.84,828.16,Retail,None,263,112,0
+2024-02-22,Asia,India,Home Appliances,Washing Machine W,Jane Smith,93,29481,20458.52,9022.48,Wholesale,Holiday Promo,289,59,1925
+2024-04-26,Asia,Japan,Clothing,T-shirt Classic,Jane Smith,191,33998,25705.69,8292.31,Wholesale,None,34,19,0
+2024-02-12,Asia,Japan,Electronics,Smartphone Z,John Doe,34,11186,8797.86,2388.14,Retail,None,168,35,0
+2024-03-06,South America,Argentina,Home Appliances,Air Conditioner A1,Jane Smith,172,24424,16368.32,8055.68,Enterprise,None,58,25,0
+2024-02-25,Asia,India,Electronics,Smartphone Z,Alice Wong,185,56240,39963.3,16276.7,Enterprise,Holiday Promo,27,6,3223
+2024-01-15,Europe,France,Home Appliances,Blender Max,Alice Wong,20,7980,5572.95,2407.05,Enterprise,Holiday Promo,151,64,1690
+2024-01-28,Asia,China,Books,History Chronicle,Carlos Vega,90,33390,25082.8,8307.2,Retail,None,245,64,0
+2024-04-26,Asia,Japan,Electronics,Smartwatch X,Jane Smith,91,42861,38059.94,4801.06,Retail,Holiday Promo,184,90,1939
+2024-01-20,Europe,UK,Clothing,T-shirt Classic,Alice Wong,62,4898,4142.72,755.28,Retail,Spring Email Blast,241,32,963
+2024-02-25,North America,Mexico,Books,Novel Alpha,Jane Smith,185,24605,20119.53,4485.47,Wholesale,None,239,116,0
+2024-04-12,North America,USA,Clothing,Jeans Slim Fit,Carlos Vega,19,2527,1804.19,722.81,Enterprise,Holiday Promo,41,20,3130
+2024-02-23,Asia,China,Clothing,Jacket Winter,Alice Wong,153,72063,47479.9,24583.1,Enterprise,Q1 Social Boost,181,84,3915
+2024-01-02,North America,USA,Clothing,Jacket Winter,Jane Smith,35,8540,7060.7,1479.3,Enterprise,Spring Email Blast,275,54,1701
+2024-01-12,Europe,Germany,Books,History Chronicle,John Doe,177,35931,31469.05,4461.95,Enterprise,Holiday Promo,122,42,2281
+2024-01-05,North America,Canada,Clothing,Jeans Slim Fit,Jane Smith,183,28365,21933.01,6431.99,Enterprise,None,36,13,0
+2024-04-05,Asia,Japan,Electronics,Smartphone Z,John Doe,116,13804,12020.94,1783.06,Wholesale,Q1 Social Boost,42,6,1631
+2024-04-06,Europe,France,Home Appliances,Blender Max,Alice Wong,69,29532,23736.92,5795.08,Wholesale,Spring Email Blast,123,20,3164
+2024-04-07,Asia,China,Electronics,Smartwatch X,Alice Wong,180,9540,6137.64,3402.36,Wholesale,None,265,137,0
+2024-01-27,Europe,Germany,Clothing,Jacket Winter,John Doe,11,1298,782.97,515.03,Enterprise,Q1 Social Boost,224,132,1783
+2024-02-10,North America,Canada,Clothing,Jeans Slim Fit,Alice Wong,46,12558,8673.9,3884.1,Enterprise,Holiday Promo,292,127,3576
+2024-01-16,Asia,Japan,Clothing,Jeans Slim Fit,Jane Smith,38,14326,12678.16,1647.84,Retail,Spring Email Blast,99,51,2484
+2024-03-27,Asia,India,Books,Novel Alpha,Alice Wong,121,17303,12520.91,4782.09,Retail,None,245,95,0
+2024-03-19,Asia,China,Clothing,T-shirt Classic,Carlos Vega,100,49600,37444.08,12155.92,Enterprise,Spring Email Blast,113,37,1030
+2024-04-28,Asia,India,Electronics,Smartphone Z,Jane Smith,146,51684,36204.6,15479.4,Enterprise,Q1 Social Boost,82,38,3553
+2024-03-22,Europe,Germany,Clothing,Jeans Slim Fit,Alice Wong,161,22540,15170.87,7369.13,Enterprise,Q1 Social Boost,108,64,3113
+2024-03-18,North America,Mexico,Clothing,T-shirt Classic,Carlos Vega,113,28363,20588.55,7774.45,Enterprise,Spring Email Blast,283,168,678
+2024-03-31,Asia,Japan,Clothing,Jeans Slim Fit,Alice Wong,183,51057,37226.46,13830.54,Enterprise,Spring Email Blast,112,18,1632
+2024-03-23,Europe,UK,Books,History Chronicle,Carlos Vega,136,8976,6351.24,2624.76,Enterprise,Holiday Promo,118,46,3902
+2024-02-18,Asia,India,Electronics,Smartwatch X,Jane Smith,37,17464,13650.85,3813.15,Retail,None,278,84,0
+2024-01-31,North America,Canada,Electronics,Smartphone Z,John Doe,169,79092,50405.71,28686.29,Enterprise,None,173,18,0
+2024-02-27,South America,Chile,Electronics,Smartwatch X,Alice Wong,87,18357,13964.51,4392.49,Enterprise,Spring Email Blast,139,19,4852
+2024-01-05,North America,Canada,Books,Science Textbook,Carlos Vega,81,39123,31702.33,7420.67,Wholesale,None,286,133,0
+2024-03-30,Europe,UK,Clothing,T-shirt Classic,John Doe,16,7520,5272.78,2247.22,Enterprise,Holiday Promo,188,97,4597
+2024-01-17,South America,Brazil,Electronics,Laptop Pro,Alice Wong,51,24378,14835.11,9542.89,Retail,Holiday Promo,222,74,3330
+2024-04-05,Europe,UK,Electronics,Smartphone Z,Alice Wong,137,30414,23865.69,6548.31,Enterprise,Holiday Promo,269,119,4844
+2024-02-22,South America,Chile,Books,Novel Alpha,John Doe,199,41392,30493.08,10898.92,Retail,None,209,53,0
+2024-02-19,Asia,Japan,Electronics,Smartphone Z,Carlos Vega,41,14760,11244.69,3515.31,Retail,Holiday Promo,136,42,4699
+2024-01-19,Europe,France,Electronics,Smartwatch X,Alice Wong,133,44688,33853.28,10834.72,Enterprise,Q1 Social Boost,183,94,3358
+2024-02-01,Asia,India,Clothing,T-shirt Classic,Carlos Vega,86,19780,13506.63,6273.37,Wholesale,Q1 Social Boost,273,49,3988
+2024-04-21,Europe,France,Home Appliances,Blender Max,Alice Wong,27,12042,7926.4,4115.6,Wholesale,Holiday Promo,22,6,4936
+2024-02-27,South America,Brazil,Books,History Chronicle,Jane Smith,35,2135,1738.65,396.35,Retail,Spring Email Blast,133,24,3208
+2024-04-21,South America,Chile,Electronics,Smartphone Z,Carlos Vega,13,4225,3250.66,974.34,Enterprise,Holiday Promo,76,39,4428
+2024-02-10,South America,Argentina,Books,Novel Alpha,Jane Smith,199,14328,9583.06,4744.94,Retail,Spring Email Blast,99,12,3980
+2024-02-10,North America,Canada,Clothing,Jacket Winter,Carlos Vega,192,16896,14827.26,2068.74,Wholesale,None,202,119,0
+2024-02-21,South America,Chile,Books,History Chronicle,Jane Smith,30,13500,11463.44,2036.56,Retail,Q1 Social Boost,164,45,2336
+2024-01-28,North America,Mexico,Clothing,Jacket Winter,Carlos Vega,145,34365,25607.98,8757.02,Enterprise,None,239,61,0
+2024-01-09,Asia,India,Home Appliances,Blender Max,Alice Wong,36,15264,12613.02,2650.98,Retail,None,125,26,0
+2024-01-11,North America,Mexico,Clothing,T-shirt Classic,Carlos Vega,107,14873,9235.17,5637.83,Enterprise,Spring Email Blast,134,32,2722
+2024-01-17,Europe,Germany,Clothing,Jeans Slim Fit,Alice Wong,125,26375,23350.27,3024.73,Wholesale,Spring Email Blast,161,69,4250
+2024-04-28,South America,Chile,Home Appliances,Blender Max,Jane Smith,132,30624,26115.38,4508.62,Wholesale,None,234,57,0
+2024-04-13,South America,Chile,Clothing,Jeans Slim Fit,John Doe,131,59867,44361.87,15505.13,Retail,Holiday Promo,288,118,3435
+2024-01-15,North America,USA,Home Appliances,Blender Max,Carlos Vega,126,59346,48711.44,10634.56,Enterprise,Holiday Promo,240,36,1721
+2024-04-04,North America,Mexico,Home Appliances,Air Conditioner A1,Carlos Vega,19,2166,1698.75,467.25,Wholesale,Holiday Promo,65,11,3679
+2024-04-14,Asia,China,Books,History Chronicle,Alice Wong,36,12780,11371.05,1408.95,Enterprise,Holiday Promo,151,27,4690
+2024-03-29,Europe,UK,Home Appliances,Air Conditioner A1,John Doe,62,25978,19262.21,6715.79,Enterprise,Spring Email Blast,100,39,3896
+2024-03-26,North America,USA,Clothing,T-shirt Classic,Carlos Vega,45,3465,2168.14,1296.86,Retail,Holiday Promo,216,30,2396
+2024-04-25,Asia,India,Home Appliances,Blender Max,John Doe,110,15400,9905.64,5494.36,Retail,Spring Email Blast,31,8,2598
+2024-03-14,South America,Chile,Books,History Chronicle,Jane Smith,55,21340,15233.7,6106.3,Retail,None,226,68,0
+2024-03-05,North America,Canada,Books,History Chronicle,Carlos Vega,46,20562,16658.72,3903.28,Enterprise,Spring Email Blast,272,87,4906
+2024-04-18,Europe,Germany,Electronics,Laptop Pro,John Doe,180,19620,11997.86,7622.14,Wholesale,Spring Email Blast,135,51,4946
+2024-04-18,Asia,Japan,Books,Science Textbook,Carlos Vega,175,64225,53172.74,11052.26,Retail,Spring Email Blast,146,64,3812
+2024-03-29,Europe,UK,Electronics,Smartwatch X,John Doe,126,26460,20840.7,5619.3,Retail,None,296,117,0
+2024-04-28,Europe,UK,Electronics,Smartwatch X,John Doe,173,50170,33669.77,16500.23,Wholesale,Spring Email Blast,124,49,4547
+2024-01-15,North America,USA,Electronics,Smartwatch X,Carlos Vega,28,5880,5136.37,743.63,Retail,Spring Email Blast,221,118,1206
+2024-02-15,North America,USA,Electronics,Smartwatch X,Alice Wong,126,9828,6752.34,3075.66,Enterprise,Spring Email Blast,253,102,1570
+2024-01-22,Europe,Germany,Electronics,Smartphone Z,Jane Smith,190,26600,20949.52,5650.48,Enterprise,Holiday Promo,155,55,1686
+2024-02-23,South America,Chile,Electronics,Smartphone Z,John Doe,52,4576,3854.86,721.14,Wholesale,Spring Email Blast,141,82,4133
+2024-02-04,South America,Brazil,Home Appliances,Washing Machine W,Alice Wong,156,67860,59285.42,8574.58,Wholesale,None,264,133,0
+2024-02-22,North America,Mexico,Home Appliances,Blender Max,Jane Smith,188,46248,40111.94,6136.06,Enterprise,Spring Email Blast,171,59,1852
+2024-03-17,South America,Brazil,Home Appliances,Washing Machine W,John Doe,141,61053,39811.65,21241.35,Enterprise,Holiday Promo,255,89,1167
+2024-04-17,South America,Brazil,Clothing,Jacket Winter,Alice Wong,174,54984,39744.57,15239.43,Enterprise,Holiday Promo,131,75,4551
+2024-04-04,North America,Mexico,Books,Science Textbook,Jane Smith,107,22898,15619.65,7278.35,Enterprise,None,132,59,0
+2024-01-21,Asia,India,Electronics,Laptop Pro,John Doe,118,57938,40218.14,17719.86,Retail,Q1 Social Boost,230,123,3365
+2024-03-01,Europe,UK,Home Appliances,Blender Max,Carlos Vega,195,19305,12137.98,7167.02,Wholesale,None,292,55,0
+2024-02-26,North America,USA,Books,Novel Alpha,Jane Smith,49,20139,16441.79,3697.21,Wholesale,Q1 Social Boost,276,42,1415
+2024-04-24,Europe,UK,Home Appliances,Washing Machine W,John Doe,89,20114,13673.54,6440.46,Wholesale,Holiday Promo,145,42,3479
+2024-01-13,South America,Chile,Clothing,Jacket Winter,Alice Wong,94,43616,32767.02,10848.98,Retail,None,289,94,0
+2024-04-24,Asia,China,Clothing,T-shirt Classic,Carlos Vega,28,4676,3489.87,1186.13,Enterprise,Holiday Promo,295,68,1765
+2024-04-23,South America,Chile,Books,History Chronicle,Jane Smith,30,2100,1533.46,566.54,Wholesale,Spring Email Blast,57,15,3078
+2024-02-12,South America,Argentina,Books,Novel Alpha,Jane Smith,122,21472,16339.27,5132.73,Wholesale,Holiday Promo,295,136,2047
+2024-04-25,Asia,India,Electronics,Smartphone Z,Alice Wong,104,21424,15922.22,5501.78,Enterprise,Q1 Social Boost,212,126,4944
+2024-02-17,South America,Brazil,Clothing,T-shirt Classic,Alice Wong,157,52752,43927.4,8824.6,Wholesale,Spring Email Blast,149,69,1398
+2024-01-07,North America,Canada,Books,Novel Alpha,Carlos Vega,84,18648,13931.23,4716.77,Enterprise,None,202,102,0
+2024-01-25,South America,Argentina,Electronics,Smartwatch X,Jane Smith,182,68796,45758.2,23037.8,Retail,Holiday Promo,188,94,4857
+2024-01-28,North America,Mexico,Books,Science Textbook,Jane Smith,57,15276,9438.62,5837.38,Retail,Spring Email Blast,157,17,2828
+2024-01-26,South America,Chile,Electronics,Laptop Pro,John Doe,71,24353,17248.99,7104.01,Enterprise,None,285,80,0
+2024-02-05,North America,Canada,Books,Novel Alpha,Jane Smith,151,47263,36072.64,11190.36,Wholesale,Q1 Social Boost,109,15,1459
+2024-02-18,South America,Chile,Electronics,Laptop Pro,John Doe,125,45000,30445.19,14554.81,Retail,None,254,129,0
+2024-03-15,North America,Canada,Clothing,Jacket Winter,Alice Wong,120,9000,5711.76,3288.24,Wholesale,Spring Email Blast,295,118,2155
+2024-03-08,South America,Argentina,Books,Novel Alpha,John Doe,62,25172,19919.64,5252.36,Enterprise,Holiday Promo,252,91,4135
+2024-03-28,Asia,China,Clothing,Jacket Winter,Alice Wong,196,46256,39748.29,6507.71,Enterprise,Holiday Promo,156,35,4672
+2024-01-18,Europe,France,Electronics,Smartwatch X,John Doe,15,3480,2662.92,817.08,Retail,Spring Email Blast,49,5,1595
+2024-03-02,Asia,Japan,Books,History Chronicle,John Doe,34,15810,13666.62,2143.38,Wholesale,Holiday Promo,117,30,3130
+2024-02-20,North America,Mexico,Electronics,Smartphone Z,Carlos Vega,104,31304,19831.33,11472.67,Enterprise,Spring Email Blast,264,69,1722
+2024-04-25,North America,Canada,Books,Science Textbook,Carlos Vega,36,2232,1618.27,613.73,Retail,Q1 Social Boost,28,16,936
+2024-03-11,Europe,UK,Books,Science Textbook,Carlos Vega,84,17976,12194.48,5781.52,Retail,Spring Email Blast,37,12,1514
+2024-02-28,South America,Argentina,Electronics,Smartwatch X,Jane Smith,123,29643,22914.17,6728.83,Wholesale,Spring Email Blast,282,139,2558
+2024-03-14,South America,Chile,Clothing,Jacket Winter,John Doe,144,19584,13927.16,5656.84,Wholesale,Q1 Social Boost,252,114,4669
+2024-01-09,Asia,Japan,Electronics,Smartwatch X,Carlos Vega,141,28764,24851.73,3912.27,Wholesale,Q1 Social Boost,47,11,2046
+2024-02-15,Europe,Germany,Home Appliances,Air Conditioner A1,Carlos Vega,130,33930,21802.07,12127.93,Wholesale,Spring Email Blast,239,94,1043
+2024-01-08,South America,Argentina,Books,Novel Alpha,John Doe,180,43020,33426.1,9593.9,Enterprise,Spring Email Blast,95,44,2525
+2024-03-06,South America,Brazil,Clothing,T-shirt Classic,John Doe,88,34496,29693.82,4802.18,Retail,Q1 Social Boost,111,33,3022
+2024-02-03,Asia,China,Clothing,T-shirt Classic,Carlos Vega,55,10450,7964.39,2485.61,Enterprise,Holiday Promo,287,42,3703
+2024-02-22,Asia,Japan,Electronics,Smartwatch X,Alice Wong,32,10784,8905.64,1878.36,Retail,Holiday Promo,107,62,4865
+2024-02-26,Europe,UK,Electronics,Smartwatch X,Jane Smith,103,10506,7479.18,3026.82,Wholesale,Q1 Social Boost,87,13,4594
+2024-02-26,South America,Chile,Home Appliances,Washing Machine W,John Doe,166,18758,14204.09,4553.91,Enterprise,Q1 Social Boost,35,7,2799
+2024-03-15,Europe,France,Books,Novel Alpha,Carlos Vega,160,79200,55843.38,23356.62,Wholesale,None,181,41,0
+2024-04-14,Asia,India,Books,Science Textbook,Jane Smith,74,26122,19522.13,6599.87,Wholesale,None,159,75,0
+2024-02-21,South America,Chile,Electronics,Laptop Pro,Jane Smith,169,66924,54248.0,12676.0,Retail,Q1 Social Boost,212,111,1407
+2024-01-31,South America,Brazil,Home Appliances,Washing Machine W,Alice Wong,40,17720,11610.22,6109.78,Wholesale,Spring Email Blast,277,142,2355
+2024-02-08,Europe,UK,Clothing,Jacket Winter,Jane Smith,134,36850,30362.76,6487.24,Retail,None,186,66,0
+2024-01-27,Europe,Germany,Clothing,Jacket Winter,John Doe,188,28764,23684.36,5079.64,Enterprise,Holiday Promo,90,52,2873
+2024-01-20,North America,Mexico,Home Appliances,Blender Max,Alice Wong,155,28675,18764.57,9910.43,Wholesale,None,193,111,0
+2024-02-10,Asia,China,Books,Novel Alpha,Carlos Vega,167,29392,23779.73,5612.27,Wholesale,None,66,21,0
+2024-04-05,North America,Mexico,Clothing,T-shirt Classic,Jane Smith,157,20881,15845.23,5035.77,Enterprise,Spring Email Blast,251,135,1082
+2024-04-09,Europe,Germany,Clothing,T-shirt Classic,Carlos Vega,29,13485,9461.66,4023.34,Retail,Holiday Promo,89,24,805
+2024-03-31,Asia,China,Clothing,Jeans Slim Fit,Jane Smith,187,56287,46793.79,9493.21,Enterprise,None,88,25,0
+2024-03-07,Europe,France,Clothing,T-shirt Classic,John Doe,47,6204,5166.49,1037.51,Wholesale,Holiday Promo,277,31,1141
+2024-03-07,North America,Canada,Electronics,Laptop Pro,Carlos Vega,193,47092,31458.74,15633.26,Enterprise,Q1 Social Boost,270,113,2718
+2024-04-30,South America,Argentina,Home Appliances,Blender Max,Carlos Vega,101,9595,6231.87,3363.13,Retail,None,169,88,0
+2024-01-18,Europe,Germany,Home Appliances,Blender Max,Carlos Vega,53,6042,4976.45,1065.55,Retail,Q1 Social Boost,108,60,4322
+2024-02-18,Asia,Japan,Home Appliances,Washing Machine W,John Doe,133,66500,42006.82,24493.18,Retail,None,172,90,0
+2024-02-18,South America,Chile,Clothing,T-shirt Classic,Alice Wong,154,58674,38465.81,20208.19,Wholesale,Holiday Promo,142,31,837
+2024-04-02,Europe,France,Clothing,Jeans Slim Fit,Alice Wong,11,4719,3866.24,852.76,Retail,Q1 Social Boost,132,46,1791
+2024-02-28,South America,Chile,Home Appliances,Air Conditioner A1,John Doe,35,16835,10362.89,6472.11,Retail,Holiday Promo,294,50,1982
+2024-04-18,Asia,Japan,Books,History Chronicle,Carlos Vega,128,42496,31465.07,11030.93,Retail,None,64,20,0
+2024-04-01,Europe,France,Clothing,T-shirt Classic,Alice Wong,21,7392,5736.33,1655.67,Wholesale,Q1 Social Boost,207,110,2172
+2024-04-24,North America,Mexico,Books,History Chronicle,Jane Smith,39,10569,9328.58,1240.42,Wholesale,Q1 Social Boost,114,57,4536
+2024-03-18,South America,Chile,Clothing,Jeans Slim Fit,John Doe,94,28388,21523.15,6864.85,Wholesale,Spring Email Blast,44,10,2014
+2024-01-22,Europe,Germany,Electronics,Laptop Pro,Carlos Vega,193,70831,62269.62,8561.38,Retail,None,118,39,0
+2024-04-18,Asia,China,Books,History Chronicle,Jane Smith,181,28417,23546.4,4870.6,Retail,Holiday Promo,220,123,3486
+2024-01-07,North America,USA,Home Appliances,Washing Machine W,Jane Smith,187,56474,50247.74,6226.26,Retail,Holiday Promo,33,4,1752
+2024-04-10,South America,Brazil,Home Appliances,Air Conditioner A1,Carlos Vega,72,31032,27365.65,3666.35,Wholesale,None,219,24,0
+2024-02-10,Europe,France,Home Appliances,Blender Max,Alice Wong,185,81400,49552.68,31847.32,Retail,None,293,95,0
+2024-04-26,North America,Canada,Clothing,Jacket Winter,Carlos Vega,185,65490,39362.99,26127.01,Retail,Spring Email Blast,194,82,1327
+2024-03-02,North America,USA,Electronics,Smartphone Z,John Doe,87,22968,19329.34,3638.66,Retail,Q1 Social Boost,155,16,2291
+2024-01-07,Europe,France,Home Appliances,Washing Machine W,Jane Smith,97,26869,23172.76,3696.24,Retail,Holiday Promo,99,27,2175
+2024-03-15,Europe,Germany,Clothing,Jeans Slim Fit,John Doe,38,8398,7056.37,1341.63,Retail,Q1 Social Boost,39,14,2245
+2024-04-15,Asia,Japan,Books,History Chronicle,Carlos Vega,87,28014,20046.26,7967.74,Enterprise,Holiday Promo,263,27,1046
+2024-02-04,Europe,UK,Electronics,Laptop Pro,Jane Smith,144,51264,46077.47,5186.53,Retail,None,298,85,0
+2024-04-06,South America,Argentina,Home Appliances,Air Conditioner A1,Carlos Vega,16,8000,6865.33,1134.67,Retail,Q1 Social Boost,180,32,4484
+2024-01-11,South America,Argentina,Electronics,Laptop Pro,Carlos Vega,54,21384,13523.64,7860.36,Enterprise,Holiday Promo,131,71,4142
+2024-04-23,South America,Chile,Clothing,Jeans Slim Fit,Jane Smith,10,2280,1904.86,375.14,Wholesale,Holiday Promo,61,21,3649
+2024-01-10,Europe,Germany,Home Appliances,Air Conditioner A1,Alice Wong,163,52486,38119.43,14366.57,Enterprise,Spring Email Blast,156,39,3696
+2024-04-04,South America,Chile,Electronics,Smartphone Z,Jane Smith,62,12338,7578.8,4759.2,Enterprise,Q1 Social Boost,266,72,1288
+2024-01-19,Asia,China,Electronics,Laptop Pro,Carlos Vega,137,55759,34260.88,21498.12,Wholesale,Holiday Promo,45,4,4099
+2024-01-08,North America,USA,Electronics,Smartwatch X,Carlos Vega,200,23400,16718.94,6681.06,Wholesale,Holiday Promo,297,67,4552
+2024-04-02,South America,Brazil,Home Appliances,Blender Max,Alice Wong,71,32021,25454.54,6566.46,Wholesale,Spring Email Blast,160,41,858
+2024-04-04,North America,Mexico,Clothing,Jeans Slim Fit,Alice Wong,143,24310,20336.69,3973.31,Enterprise,Q1 Social Boost,136,54,586
+2024-04-18,Asia,Japan,Clothing,Jacket Winter,Alice Wong,76,10792,8704.02,2087.98,Retail,None,25,14,0
+2024-03-19,Asia,Japan,Clothing,T-shirt Classic,Alice Wong,147,60417,51466.15,8950.85,Enterprise,Holiday Promo,91,20,3441
+2024-01-16,South America,Brazil,Home Appliances,Washing Machine W,Alice Wong,137,19591,17565.58,2025.42,Enterprise,Spring Email Blast,158,64,981
+2024-02-07,Europe,France,Home Appliances,Blender Max,Carlos Vega,127,22860,17370.54,5489.46,Wholesale,Holiday Promo,271,134,1064
+2024-04-05,South America,Brazil,Electronics,Smartwatch X,Alice Wong,170,26520,23777.57,2742.43,Wholesale,Q1 Social Boost,224,97,2131
