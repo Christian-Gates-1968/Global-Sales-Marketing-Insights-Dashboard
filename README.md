@@ -2,6 +2,7 @@
 
 This repository showcases a visually rich Power BI dashboard built using the `sales_marketing_data.csv` file. It provides a comprehensive overview of sales performance, product revenue, regional contributions, and individual sales rep effectiveness.
 
+Dashboard Screenshot ([Global Sales](https://github.com/user-attachments/assets/d7d63844-b337-4f6d-a534-7c4b70ea19ea))
 ---
 
 ## 🖥️ Dashboard Overview
